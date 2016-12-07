@@ -1,7 +1,7 @@
 This is a simple test
 1 - First Commit change
 2
-3
+3 - Another change in master
 4
 5
 6
